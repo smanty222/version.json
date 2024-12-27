@@ -1,1 +1,14 @@
 
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "url": "https://example.com/game/file1.dll",
+      "path": "file1.dll"
+    },
+    {
+      "url": "https://example.com/game/file2.exe",
+      "path": "file2.exe"
+    }
+  ]
+}
