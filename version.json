@@ -4,7 +4,7 @@
   "files": [
     {
       "url": "https://example.com/game/file1.dll",
-      "path": "file1.dll"
+      "path": "ForestBooster.dll"
     },
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/Loader.exe",
