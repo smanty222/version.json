@@ -4,7 +4,7 @@
   "files": [
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/ForestBooster.dll",
-      "path": "BepInEx\plugins\ForestBooster.dll"
+      "path": "BepInEx/plugins/ForestBooster.dll"
     }
   ]
 }
