@@ -7,8 +7,8 @@
       "path": "file1.dll"
     },
     {
-      "url": "https://example.com/game/file2.exe",
-      "path": "file2.exe"
+      "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/Loader.exe",
+      "path": "Loader.exe"
     }
   ]
 }
