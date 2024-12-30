@@ -12,6 +12,27 @@
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/dotnet1.rar",
       "path": "./BepInEx/dotnet/dotnet1.rar"
-    }
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/core.rar",
+     "path": "./BepInEx/core/core.rar"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/interop.rar",
+     "path": "./BepInEx/interop/interop.rar"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/unity-libs.rar",
+     "path": "./BepInEx/unity-libs/unity-libs.rar"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/doorstop_config.ini",
+     "path": "./doorstop_config.ini"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/winhttp.dll",
+     "path": "./winhttp.dll"
+    },
+    
   ]
 }
