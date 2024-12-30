@@ -7,11 +7,11 @@
     },
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/dotnet.rar",
-      "path": "./BepInEx/dotnet/"
+      "path": "./BepInEx/dotnet/dotnet.rar"
     },
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/dotnet1.rar",
-      "path": "./BepInEx/dotnet/"
+      "path": "./BepInEx/dotnet/dotnet1.rar"
     }
   ]
 }
