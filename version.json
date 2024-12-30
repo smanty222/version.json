@@ -1,10 +1,18 @@
 
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "files": [
     {
       "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/ForestBooster.dll",
       "path": "./BepInEx/plugins/ForestBooster.dll"
+    },
+    {
+      "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/dotnet.rar",
+      "path": "./BepInEx/dotnet/"
+    },
+    {
+      "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/dotnet1.rar",
+      "path": "./BepInEx/dotnet/"
     }
   ]
 }
