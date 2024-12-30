@@ -32,6 +32,14 @@
     { 
      "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/winhttp.dll",
      "path": "./winhttp.dll"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/BepInEx.cfg",
+     "path": "./BepInEx/config/BepInEx.cfg"
+    },
+    { 
+     "url": "https://github.com/smanty222/version.json/raw/refs/heads/main/config.ini",
+     "path": "./BepInEx/config/config.ini"
     }
     
   ]
